@@ -1,7 +1,7 @@
 import java.util.*;
 
 /**
- * @author 周绍峰
+ * @author z
  */
 public class WineQuestion {
 
@@ -110,7 +110,7 @@ public class WineQuestion {
 }
 
 /**
- * @author 周绍峰
+ * @author z
  */
 class Node {
     private int A;
