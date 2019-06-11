@@ -1,4 +1,4 @@
-# SeparateWine Problem
+# SeparateWine Problem分酒问题
 
 When I was a sophister，I start to learn Java.
 And this is the Course CurriculumDesign.
